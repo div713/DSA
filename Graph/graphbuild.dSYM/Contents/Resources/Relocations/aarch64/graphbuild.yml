@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/divyamkhandelwal/Documents/Vs Code/DSA/Graph/graphbuild'
+relocations:     []
+...
